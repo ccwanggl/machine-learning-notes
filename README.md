@@ -156,7 +156,7 @@ Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natur
 * ### [Word Embeddings](https://github.com/roboticcam/machine-learning-notes/blob/master/files/word_vector.pdf) ###
 GloVe, Fasttext, negative sampling   系统的介绍了自然语言处理中的“词表示”中的技巧
 
-* ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deep_nlp.pdf) ###
+* ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_nlp.pdf) ###
 RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks   深度自然语言处理：递归神经网络,LSTM,具有注意力机制的Seq2Seq，集束搜索，指针网络和 "Attention is all you need", 卷积Seq2Seq
 
 
