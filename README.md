@@ -21,6 +21,8 @@ You can register via meetup https://www.meetup.com/machine-learning-hong-kong/
 # Generative AI
 
 * ### [Transfomer with PyTorch](https://github.com/roboticcam/machine-learning-notes/blob/master/files/transformer.pdf) ###
+analysis of the Transformer model using PyTorch code, covering the basic architecture, K-V Caching, Decoupled RoPE, and Deepseek's Multi-Head Latent Attention. 结合 PyTorch 代码深入解析了 Transformer 模型，内容涵盖基础架构、键值缓存、解耦旋转位置编码以及 Deepseek 的多头潜在注意力机制。
+
 
 # Video Tutorial to these notes 视频资料
 
